@@ -5,3 +5,4 @@
 5. He publicado el trabajo en github siguien los comandos: git add . git commit y git push basicamente
 6. Fusionando la rama donde trabajaba a la rama main es decir de la rama feature/ArmandoMerino a main.
 
+Comprobación del resultado final
