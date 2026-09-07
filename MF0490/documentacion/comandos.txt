@@ -1,0 +1,8 @@
+1. Obtener el repositorio: Para obtener el repositorio he utilizado 
+2. Consultar el estado: He utilizado el git status.
+3. Trabajar con ramas: git switch -c "Nombre de la rama"
+4. Preparar cambios: git add .
+5. Crear commits: He utilizado el git commit -m "Nombre del comit"
+6. Publicar cambios: He utilizado el git push y el git push -u origin 
+7. Publicar ramas: git push -u origin "Nombre de la rama" feature/ArmandoMerino 
+8. Realizar la fusión: Con git merge feature/ArmandoMerino

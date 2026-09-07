@@ -1,0 +1,7 @@
+1. He creado el repositorio graficamente en git y lo he obtenido copiando la url que me dio git. 
+2. Me descargue el repositorio en local en mi ordenador y dentro de la carpeta cree la rama y trabaje en ella.
+3. He creado los archivos con el comando touch.
+4. He guardado los cambios con control o.
+5. He publicado el trabajo en github siguien los comandos: git add . git commit y git push basicamente
+6. Fusionando la rama donde trabajaba a la rama main es decir de la rama feature/ArmandoMerino a main.
+
